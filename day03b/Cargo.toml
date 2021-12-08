@@ -1,0 +1,5 @@
+[package]
+name = "day03b"
+version = "0.1.0"
+authors = ["mintelm"]
+edition = "2021"
